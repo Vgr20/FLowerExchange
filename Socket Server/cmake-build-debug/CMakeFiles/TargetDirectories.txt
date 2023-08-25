@@ -1,0 +1,3 @@
+D:/Academics/Curricular Works/Semester_05/Clion/Socket Server/cmake-build-debug/CMakeFiles/Socket_Server.dir
+D:/Academics/Curricular Works/Semester_05/Clion/Socket Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Academics/Curricular Works/Semester_05/Clion/Socket Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2023.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\Academics\Curricular Works\Semester_05\Clion\Socket Server" -B "D:\Academics\Curricular Works\Semester_05\Clion\Socket Server\cmake-build-debug"
+CMake Error at CMakeLists.txt:20 (target_link_libraries):
+  Cannot specify link libraries for target "Socket_Client" which is not built
+  by this project.
+
+
+-- Configuring incomplete, errors occurred!
